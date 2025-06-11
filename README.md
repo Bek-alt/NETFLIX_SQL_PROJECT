@@ -1,1 +1,1 @@
-# NETFLIX_SQL_PROJECT
+# netflix_project_sql
