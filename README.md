@@ -4,12 +4,11 @@
 Analyze the Netflix dataset using SQL to uncover key insights about content types, release patterns, and genre popularity.
 Identify trends and patterns that help understand Netflix’s content strategy and user preferences.
 Provide clear, data-driven answers to business questions for better decision-making and reporting.
-##Dataset
+## Dataset
 The data for this project is sourced from the Kaggle dataset:
 [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
-
-##QUESTIONS AND SOLUTIONS
+## QUESTIONS AND SOLUTIONS
 
 
 #### **1. Difference Between the Numbers of Movies and TV Shows**
