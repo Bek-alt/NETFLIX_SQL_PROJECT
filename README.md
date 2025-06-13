@@ -1,9 +1,9 @@
 # 
 ![Netflix Logo](https://github.com/Bek-alt/NETFLIX_SQL_PROJECT/blob/main/netflix_logo.png)
 ## Objective
-Analyze the Netflix dataset using SQL to uncover key insights about content types, release patterns, and genre popularity.
-Identify trends and patterns that help understand Netflix’s content strategy and user preferences.
-Provide clear, data-driven answers to business questions for better decision-making and reporting.
+-Analyze the Netflix dataset using SQL to uncover key insights about content types, release patterns, and genre popularity.
+-Identify trends and patterns that help understand Netflix’s content strategy and user preferences.
+-Provide clear, data-driven answers to business questions for better decision-making and reporting.
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
 [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
