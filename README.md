@@ -1,5 +1,9 @@
 # 
 ![Netflix Logo](https://github.com/Bek-alt/NETFLIX_SQL_PROJECT/blob/main/netflix_logo.png)
+
+## General
+In this project, we will work with Netflix datasets containing information about movies and TV shows. The goal is to explore the data and generate interesting analytical questions and insights. This project was inspired by the Zero Analyst initiative. 
+
 ## Objective
 -Analyze the Netflix dataset using SQL to uncover key insights about content types, release patterns, and genre popularity.
 
